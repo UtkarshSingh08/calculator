@@ -1,0 +1,30 @@
+.container
+{
+  font-size: 0px;
+}
+input[type=text] {
+  width: 26.7%;
+  padding: 30px ;
+  font-size: 30px;
+  text-align: right;
+  box-sizing: border-box;
+  border: 1px solid  #dfe5d7;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+.buttondigits
+{
+   background-color: whitesmoke; /* Green */
+  border: 1px solid #dfe5d7;
+  color: #737373;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  width: 90px;
+  height: 90px;
+  margin: 0;
+}
